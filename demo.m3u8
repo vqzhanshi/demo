@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:17
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="/m3u8key/a1U4bWV3d3I0RlMwWEYwdENYcXlzVWgvOVM4VGR2Uys=.key"
+#EXT-X-KEY:METHOD=AES-128,URI="http://m35.grelighting.cn/m3u8key/a1U4bWV3d3I0RlMwWEYwdENYcXlzVWgvOVM4VGR2Uys=.key"
 #EXTINF:13.16,
 https://sf1-webcast-hscdn.byteimg.com/obj/tos-cn-i-8gu37r9deh/7377f37c4df74bd488005303eb0f686e
 #EXTINF:12.16,
